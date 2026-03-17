@@ -42,3 +42,4 @@ looki
 tagi
 sui
 bne
+ser
