@@ -28,3 +28,4 @@ body
 sun
 run
 won
+all
