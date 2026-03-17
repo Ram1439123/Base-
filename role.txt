@@ -12,3 +12,4 @@ srand
 gogl
 juy
 sinner
+joker
