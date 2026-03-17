@@ -36,3 +36,4 @@ left
 zum
 bal
 zuit
+det
