@@ -37,3 +37,4 @@ zum
 bal
 zuit
 det
+ere
