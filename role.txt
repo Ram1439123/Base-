@@ -32,3 +32,4 @@ all
 are
 win
 zolo
+left
