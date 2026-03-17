@@ -38,3 +38,4 @@ bal
 zuit
 det
 ere
+looki
