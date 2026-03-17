@@ -39,3 +39,4 @@ zuit
 det
 ere
 looki
+tagi
