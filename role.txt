@@ -6,3 +6,4 @@ solo
 logo
 jumpson
 george
+gera
