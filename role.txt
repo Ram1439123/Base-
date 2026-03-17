@@ -40,3 +40,4 @@ det
 ere
 looki
 tagi
+sui
